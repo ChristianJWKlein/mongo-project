@@ -1,0 +1,22 @@
+{
+  "name": "mongo-project",
+  "version": "1.0.0",
+  "description": "<!-- The following is a refernce example of how to set up a mongo database and connect with git. In this we will initialize npm and recieve code for mongo database. -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianJWKlein/mongo-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianJWKlein/mongo-project/issues"
+  },
+  "homepage": "https://github.com/ChristianJWKlein/mongo-project#readme",
+  "dependencies": {
+    "mongodb": "^4.3.1"
+  }
+}
